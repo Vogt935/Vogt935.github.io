@@ -1,4 +1,5 @@
-Datenschutzerklärung
+<body>
+<a>Datenschutzerklärung
 1. Verantwortlicher
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 Fabian Vogt
@@ -20,7 +21,9 @@ Der Anbieter der Extension erhebt oder speichert keinerlei personenbezogene Date
 Da von unserer Seite keinerlei personenbezogene Daten erhoben oder verarbeitet werden, können direkte Anfragen bezüglich Auskunft, Berichtigung, Löschung oder Sperrung von Daten nicht erfolgen. Für die Daten, die im Rahmen der Nutzung von Mistral verarbeitet werden, gelten die dort eingeräumten Rechte. Bitte wenden Sie sich in diesem Fall direkt an Mistral.
 7. Änderungen dieser Datenschutzerklärung
 Wir behalten uns das Recht vor, diese Datenschutzerklärung bei Änderungen der gesetzlichen Vorgaben oder der Funktionsweise der Extension anzupassen. Es gilt jeweils die zum Zeitpunkt des Zugriffs aktuelle Version.
-8. Kontakt
+<b>8. Kontakt<&b>
 Für Fragen oder Anmerkungen zum Thema Datenschutz wenden Sie sich bitte an:
 Fabian Vogt
 nebelwerke@protonmail.com
+</a>
+</body>
